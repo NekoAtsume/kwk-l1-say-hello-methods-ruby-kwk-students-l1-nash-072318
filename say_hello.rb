@@ -1,4 +1,4 @@
 def  say_hello(name = hesj)
-  puts "Hello #{name}"
+  puts "Hello #{name}!"
 end
 say_hello
