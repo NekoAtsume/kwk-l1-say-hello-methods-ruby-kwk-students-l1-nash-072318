@@ -1,3 +1,3 @@
-def  say_hello("fgdhsa")
-  
+def  say_hello(name = hesj)
+  puts "Hello #{name}"
 end
